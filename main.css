@@ -2,14 +2,12 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  text-decoration: none;
-  list-style-type: none;
 }
 
 body {
   font-family: "Ubuntu", sans-serif;
-  font-size: 1.125rem;
   font-weight: 300;
+  font-size: 1.125rem;
 }
 
 img {
@@ -50,8 +48,14 @@ p {
   line-height: 1.6em;
 }
 
+li{
+  text-decoration: none;
+  list-style-type: none;
+}
+
 a {
   color: #1792d2;
+  text-decoration: none;
 }
 
 a:hover,
