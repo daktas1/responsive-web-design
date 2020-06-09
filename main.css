@@ -308,6 +308,27 @@ nav a:focus {
 
 /* footer */
 
+footer {
+  display: flex;
+  justify-content: flex-end;  
+}
+
+.footer-container {
+  display: flex;
+  width: 53%;
+  justify-content: space-between;
+  margin-right: 2em;
+}
+
 .footer-body {
   margin-bottom: 0.75em;
+}
+
+.footer-social {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.footer-social p{
+  margin-right: 1em;
 }
