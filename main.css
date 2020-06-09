@@ -329,6 +329,7 @@ footer {
   justify-content: flex-end;
 }
 
-.footer-social p{
+.footer-social a{
   margin-right: 1em;
+  color: #fff;
 }
