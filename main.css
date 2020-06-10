@@ -331,5 +331,29 @@ footer {
 
 .footer-social a{
   margin-right: 1em;
+}
+
+.footer-social i{
   color: #fff;
+  transition: 0.3s all;
+}
+
+.fa-instagram:hover {
+  color: #af30bf;
+  transform: translateY(-1px);
+}
+
+.fa-twitter:hover {
+  color: #2da8e1;
+  transform: translateY(-1px);
+}
+
+.fa-facebook:hover {
+  color: #4664a0;
+  transform: translateY(-1px);
+}
+
+.fa-pinterest:hover {
+  color: #cc2127;
+  transform: translateY(-1px);
 }
