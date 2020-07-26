@@ -1,6 +1,6 @@
 # Fully Responsive Web Design
 
-I found a image from design site and convert it to fully responsive website. I used **HTML5** and **CSS3** for coding and marking.  I made some improvements on the site.
+In this project, a fully responsive website created with HTML5, CSS3 and JavaScript.
 
 
->  [Image of the Website](https://i.imgur.com/s1SPp2o.png)
+> [Live Site](https://reactjs-countries.netlify.app/ "Go to the React Countries App")
